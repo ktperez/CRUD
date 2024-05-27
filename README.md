@@ -20,7 +20,7 @@ El repositorio contiene los siguientes archivos y carpetas:
 
 1. **Clonar el Repositorio:**
   
-   git clone[ <URL_del_repositorio>](https://github.com/ktperez/CRUD/)
+   git clone https://github.com/ktperez/CRUD/
 
 
 2. **Configuración de la Base de Datos:**
