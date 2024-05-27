@@ -56,7 +56,7 @@ Se realizaron pruebas exhaustivas para garantizar el correcto funcionamiento de 
 
 ## Contribuyentes
 
-Este proyecto fue desarrollado por [Nombre del Equipo/Estudiante].
+Este proyecto fue desarrollado por Katherine Pérez.
 
 ## Licencia
 
